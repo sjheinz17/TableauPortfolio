@@ -27,7 +27,7 @@ The project is divided into **three distinct dashboards**:
 
 ### 2️⃣ Churn Drivers: Price Sensitivity Analysis
 **Focus:** Risk Factors & Customer Behavior
-> **[👉 View Interactive Dashboard]((https://public.tableau.com/views/PriceSensitivityAnalysisDashboard/PriceSensitivityAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+> **[👉 Click Here to View Interactive Dashboard](https://public.tableau.com/views/PriceSensitivityAnalysisDashboard/PriceSensitivityAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![Price Sensitivity Preview](Price%20Sensitivity%20Analysis%20Dashboard.png)
 
@@ -39,7 +39,7 @@ The project is divided into **three distinct dashboards**:
 
 ### 3️⃣ Retention Cohort & Regional Analysis
 **Focus:** Long-term Retention & Geography
-> **[👉 View Interactive Dashboard]((https://public.tableau.com/views/ChurnRatebyRegionandCohort/InteractiveChurnDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+> **[👉 Click Here to View Interactive Dashboard](https://public.tableau.com/views/ChurnRatebyRegionandCohort/InteractiveChurnDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![Churn Dashboard Preview](Interactive%20Churn%20Dashboard.png)
 
