@@ -51,10 +51,10 @@ The project is divided into **three distinct dashboards**:
 
 ### 🛠️ Technical Skills Applied
 
-* **Advanced Table Calculations:** Used `Running Total` for waterfall charts and `Percent of Total` for churn rates.
-* **Parameter Actions:** Created dynamic inputs for the Sales Scenario model to allow real-time forecasting.
-* **LOD Expressions:** utilized Level of Detail expressions to fix retention rates by cohort month.
-* **Visual Best Practices:** Employed "Danger Zone" highlighting and color-coded heat maps to draw attention to critical business alerts immediately.
+* **Advanced Calculations:** Used `DATEDIFF` to calculate customer tenure and `IF/THEN` logic to categorize churn status.
+* **Statistical Analysis:** Implemented Trend Lines (Linear Regression) and Average Lines to benchmark performance against historical norms.
+* **Dashboard Interactivity:** Built **"Filter Actions"** allowing stakeholders to click a data point (e.g., a specific customer dot) to drill down into a detailed row-level profile for that account.
+* **Data Visualization:** Utilized Histograms for distribution analysis, Area Charts for time-series trending, and Scatter Plots for correlation analysis.
 
 ---
 
