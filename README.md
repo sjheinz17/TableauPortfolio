@@ -15,7 +15,7 @@ The project is divided into **three distinct dashboards**:
 
 ### 1️⃣ Executive Sales Summary & Scenario Modeling
 **Focus:** Financial Forecasting & Profitability
-> **[👉 View Interactive Dashboard]((https://public.tableau.com/views/_ExecutiveSummary_KPIDashboard/ExecutiveSalesSummary-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+> **[👉 Click Here to View Interactive Dashboard](https://public.tableau.com/views/_ExecutiveSummary_KPIDashboard/ExecutiveSalesSummary-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![Sales Summary Preview](Executive%20Sales%20Summary-2024.png)
 
